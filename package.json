@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
-    "build": "craco build",
-    "start": "craco start",
-    "test": "craco test"
+    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
   },
   "dependencies": {
     "react": "^18.2.0",
